@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "priceMin": 400000,
+    "priceMax": 800000,
+    "propertyTypes": ["Studio", "Apartment"],
+    "bedroomsMin": 1,
+    "bathroomsMin": 1,
+    "location": "Manhattan"
+  },
+  {
+    "id": "2",
+    "priceMin": 1000000,
+    "priceMax": 2000000,
+    "propertyTypes": ["House", "Townhouse"],
+    "bedroomsMin": 3,
+    "bathroomsMin": 2,
+    "location": "Brooklyn"
+  },
+  {
+    "id": "3",
+    "priceMin": null,
+    "priceMax": 500000,
+    "propertyTypes": ["Studio"],
+    "bedroomsMin": null,
+    "bathroomsMin": 1,
+    "location": ""
+  }
+]

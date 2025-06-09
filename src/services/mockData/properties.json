@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Downtown Loft with City Views",
+    "price": 850000,
+    "address": "123 Main Street, Downtown District, New York, NY 10001",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1200,
+    "propertyType": "Apartment",
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1571055107559-3e67626fa8be?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=800&h=600&fit=crop"
+    ],
+    "description": "Stunning modern loft featuring floor-to-ceiling windows, exposed brick walls, and premium finishes throughout. This corner unit offers breathtaking city views and an open-concept living space perfect for entertaining. Located in the heart of downtown with easy access to restaurants, shopping, and public transportation.",
+    "features": [
+      "Floor-to-ceiling windows",
+      "Exposed brick walls",
+      "Stainless steel appliances",
+      "In-unit washer/dryer",
+      "Hardwood floors",
+      "Walk-in closet",
+      "Building gym",
+      "Rooftop terrace"
+    ],
+    "coordinates": { "lat": 40.7589, "lng": -73.9851 },
+    "listedDate": "2024-01-15T00:00:00.000Z",
+    "yearBuilt": 2018
+  },
+  {
+    "id": "2",
+    "title": "Charming Victorian Family Home",
+    "price": 1250000,
+    "address": "456 Oak Avenue, Riverside Heights, Brooklyn, NY 11201",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2800,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop"
+    ],
+    "description": "Beautifully restored Victorian home with original architectural details and modern amenities. Features a spacious front porch, bay windows, and a private backyard perfect for family gatherings. The home has been thoughtfully updated while preserving its historic charm and character.",
+    "features": [
+      "Original hardwood floors",
+      "Bay windows",
+      "Crown molding",
+      "Updated kitchen",
+      "Private backyard",
+      "Front porch",
+      "Fireplace",
+      "Off-street parking"
+    ],
+    "coordinates": { "lat": 40.6892, "lng": -73.9442 },
+    "listedDate": "2024-01-10T00:00:00.000Z",
+    "yearBuilt": 1895
+  },
+  {
+    "id": "3",
+    "title": "Luxury Penthouse with Panoramic Views",
+    "price": 3500000,
+    "address": "789 Park Avenue, Upper East Side, New York, NY 10075",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFeet": 2200,
+    "propertyType": "Penthouse",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&h=600&fit=crop"
+    ],
+    "description": "Exquisite penthouse apartment offering unparalleled luxury and stunning panoramic views of Central Park and the Manhattan skyline. This sophisticated residence features high-end finishes, a private terrace, and access to premium building amenities including concierge service and fitness center.",
+    "features": [
+      "Panoramic city views",
+      "Private terrace",
+      "High-end appliances",
+      "Marble bathrooms",
+      "Concierge service",
+      "Fitness center",
+      "Wine storage",
+      "Private elevator"
+    ],
+    "coordinates": { "lat": 40.7736, "lng": -73.9566 },
+    "listedDate": "2024-01-08T00:00:00.000Z",
+    "yearBuilt": 2015
+  },
+  {
+    "id": "4",
+    "title": "Cozy Studio in Greenwich Village",
+    "price": 450000,
+    "address": "321 Bleecker Street, Greenwich Village, New York, NY 10014",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareFeet": 550,
+    "propertyType": "Studio",
+    "images": [
+      "https://images.unsplash.com/photo-1560448075-bb485b067938?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560449752-b9bd12e69ca7?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+    ],
+    "description": "Charming studio apartment in the heart of Greenwich Village, perfect for city living. Features efficient layout with high ceilings, large windows, and a renovated kitchen. Walking distance to Washington Square Park, trendy restaurants, and the best of downtown Manhattan nightlife.",
+    "features": [
+      "High ceilings",
+      "Large windows",
+      "Renovated kitchen",
+      "Efficient layout",
+      "Laundry in building",
+      "Pet-friendly",
+      "Pre-war building",
+      "Great location"
+    ],
+    "coordinates": { "lat": 40.7282, "lng": -74.0020 },
+    "listedDate": "2024-01-12T00:00:00.000Z",
+    "yearBuilt": 1920
+  },
+  {
+    "id": "5",
+    "title": "Spacious Family Townhouse",
+    "price": 1950000,
+    "address": "654 Elm Street, Park Slope, Brooklyn, NY 11215",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "squareFeet": 3500,
+    "propertyType": "Townhouse",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?w=800&h=600&fit=crop"
+    ],
+    "description": "Magnificent brownstone townhouse in prestigious Park Slope neighborhood. This meticulously maintained home features original architectural details, a gourmet kitchen, and multiple outdoor spaces. Perfect for families seeking space, character, and proximity to Prospect Park.",
+    "features": [
+      "Original moldings",
+      "Gourmet kitchen",
+      "Multiple outdoor spaces",
+      "Master suite",
+      "Home office",
+      "Finished basement",
+      "Near Prospect Park",
+      "Historic district"
+    ],
+    "coordinates": { "lat": 40.6708, "lng": -73.9772 },
+    "listedDate": "2024-01-05T00:00:00.000Z",
+    "yearBuilt": 1900
+  }
+]
