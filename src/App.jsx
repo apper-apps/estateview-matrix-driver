@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { ToastContainer } from 'react-toastify';
-import Layout from './components/Layout';
-import Home from './pages/Home';
+import Layout from '@/components/Layout';
+import HomePage from '@/components/pages/HomePage';
 import PropertyDetail from './pages/PropertyDetail';
 import SavedProperties from './pages/SavedProperties';
 import MapView from './pages/MapView';
@@ -14,8 +14,8 @@ function App() {
       <div className="h-screen flex flex-col overflow-hidden">
         <Routes>
           <Route path="/" element={<Layout />}>
-            <Route index element={<Home />} />
-            <Route path={routes.browse.path} element={<Home />} />
+<Route index element={<HomePage />} />
+            <Route path={routes.browse.path} element={<HomePage />} />
             <Route path={routes.property.path} element={<PropertyDetail />} />
             <Route path={routes.saved.path} element={<SavedProperties />} />
             <Route path={routes.map.path} element={<MapView />} />
